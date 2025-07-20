@@ -1,5 +1,6 @@
 # MPAS-notes
-Notes taken from the slides in course https://www.mi.fu-berlin.de/inf/groups/ag-tech/teaching/2008_SS/L_19540_Modeling_and_Performance_Analysis_with_Simulation/index.html
+Notes taken from the slides in course "Modeling and Performance Analysis with Simulation" 
+- https://www.mi.fu-berlin.de/inf/groups/ag-tech/teaching/2008_SS/L_19540_Modeling_and_Performance_Analysis_with_Simulation
 
 
 - [ ] [00_Organizational](./notes/00_Organizational.md)
